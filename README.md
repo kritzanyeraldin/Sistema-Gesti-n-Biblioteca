@@ -27,6 +27,12 @@ Este proyecto es una aplicación de consola desarrollada en Java que permite ges
 
 - SRP, OCP, LSP, ISP, DIP
 
+## 🧩 Diagrama de Clases
+
+El siguiente diagrama muestra la estructura general del sistema, las clases agrupadas por responsabilidades y la aplicación de los principios SOLID:
+
+![Diagrama de clases](docs/diagrama-clases.png)
+
 ---
 
 Desarrollado por Kritzan Yeraldin Sullca Espinoza
